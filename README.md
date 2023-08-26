@@ -72,3 +72,18 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
 
 - **Kevin Aleman** - [Github](https://github.com/KevLehman) [LinkedIn](https://www.linkedin.com/in/kevin-alem%C3%A1n/)
 - **Sing Li** - [GitHub](https://github.com/Sing-Li) [LinkedIn](https://www.linkedin.com/in/sing-li-119716139/)
+
+## 💬 Connect With Me    
+Want to discuss GSoC? Let's connect!
+<div align="center">
+
+| **Student** | Mustafa Hasan Khan |
+|:--------------------|:-------------------|
+| **Organization** | [Rocket.Chat](https://rocket.chat/) |
+| **GitHub** | [@AdityaSingh-02](https://github.com/AdityaSingh-02) |
+| **LinkedIn** | [Aditya Singh](https://www.linkedin.com/mwlite/in/aditya-singh-76065422b) |
+| **Twitter** | [Aditya Singh](https://twitter.com/Go_D_Aditya) |
+| **Email** | <a href="mailto:asaditya2002@gmail.com">asaditya2002@gmail.com</a> |
+| **Rocket.Chat** | [aditya.sing](https://open.rocket.chat/direct/aditya.sing) |
+| **Hit Counter** | <a href="https://hits.sh/github.com/AdityaSingh-02/Gsoc-23/"><img alt="Hits" src="https://hits.sh/github.com/AdityaSingh-02/Gsoc-23.svg?style=for-the-badge&label=views"/></a> |
+</div>
