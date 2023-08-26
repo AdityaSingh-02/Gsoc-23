@@ -43,3 +43,13 @@ The following are the Deliverables
 https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/9a00bbc8-58b2-42df-b93b-a76986c5bac5
 
 
+## 🚀 Contributions
+
+### PRs
+
+<div align="center">
+
+| PR Link   | Description  | Status | 
+| :-----------: | :------------------------------------:| :------:|
+| [PR v6.3.0](https://github.com/RocketChat/Rocket.Chat/pull/29623) | Complete Guided Tours v6.3.2 |  |
+</div>
