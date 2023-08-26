@@ -15,7 +15,6 @@
         <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;
         <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp;
         <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-links">Links</a>
     </code>
 </p>
 
@@ -53,3 +52,23 @@ https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/9a00bbc8-58b2-42df-b93
 | :-----------: | :------------------------------------:| :------:|
 | [PR v6.3.0](https://github.com/RocketChat/Rocket.Chat/pull/29623) | Complete Guided Tours v6.3.2 |  |
 </div>
+
+## 😎 Blog
+    
+Do Checkout my Blogs
+    
+<div align="center">
+    
+| **S no.** | Blog |
+|:--------------------|:-------------------|
+| GSOC- Journey | [Journey to Google Summer of Code 2022] |
+    
+</div>
+
+## 🎓 Mentors
+
+A big thank you to my mentors for their guidance before and throughout GSoC. 🙏 
+I learned beyond GSoC from them and am forever grateful to be mentored by them.
+
+- **Kevin Aleman** - [Github](https://github.com/KevLehman) [LinkedIn](https://www.linkedin.com/in/kevin-alem%C3%A1n/)
+- **Sing Li** - [GitHub](https://github.com/Sing-Li) [LinkedIn](https://www.linkedin.com/in/sing-li-119716139/)
