@@ -34,6 +34,8 @@ The following are the Deliverables
 
 ## ⚒ Demo
 
+- The CodeTour Extension searches for a folder with a certain name i.e. `.tours` and all the tours created are store inside the `.tours` folder in JSON format. and Each file inside the .tours folder contains data about the tour including Line Numbers, file and folder names and explanations, ***To know more about CodeTour extension visit [here](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)***
+
 - A simple tour representing how a message is sent from the client side
 
 https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/9a00bbc8-58b2-42df-b93b-a76986c5bac5
@@ -42,13 +44,13 @@ https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/9a00bbc8-58b2-42df-b93
 
  ![CodeTour](https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/ab604fc6-664e-45c8-b7e9-da392811438c)
 
-- Starting Tours :- Use `ctrl+shift+p` / `cmd+shift+p` to open all commands and then select the start tour option
+- Starting Tours:- Use `ctrl+shift+p` / `cmd+shift+p` to open all commands and then select the start tour option
 
 https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/1285dea9-5c10-4149-8349-5f94e938db52
 
 
 
-### Tours Available
+### 🚢 Tours Available
 
 <div align="center">
     
@@ -75,6 +77,7 @@ https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/1285dea9-5c10-4149-834
 | PR Link   | Description  | Status | 
 | :-----------: | :------------------------------------:| :------:|
 | [PR v6.3.0](https://github.com/RocketChat/Rocket.Chat/pull/29623) | Complete Guided Tours v6.3.2 |  |
+| [PR develop](https://github.com/RocketChat/Rocket.Chat/pull/30188) | Updates for latest branch | |
 </div>
 
 ## 😎 Blog
