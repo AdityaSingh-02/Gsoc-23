@@ -8,14 +8,14 @@
 </div>
 
 ## ⭐ Project Abstract
-`Guided RC tours and Tutorials` helping new contributors kickstart their open-source journey.
+`Guided RC tours and Tutorials` helping new contributors kickstart their open-source journey with rocket.chat.
 
-VS Code comes with a CodeTour Extension, with its help any person can go through all the tours and understand the working, This project involves the development of a set of guided tutorials that will help new developers understand how to perform multiple actions. And learn the complete Flow of code.
-Yearly more than 500 contributors show interest in contributing to Rocket.Chat but more than 90% of them end up leaving their journey, This project would help new contributors and they would easily learn about the codebase without reading the complete documentation. 
+VS Code comes with a CodeTour Extension, and with its help, any person can go through all the tours and understand the working, This project involves the development of a set of guided tutorials that will help new developers understand how to perform multiple actions. And learn the complete Flow of code.
+Yearly more than 500 contributors show interest in contributing to Rocket.Chat but more than 90% of them end up leaving their journey, This project would help new contributors and they would easily learn about the codebase without reading the complete documentation. In the coming years there will surely be an increase in contributors making worthy contributions to rocket.chat
 
 ## 🌄 Glimpse of project
 
--  This Video is recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors Showcase their Amazing Projects they have been working on under Coding Period. 
+-  This Video is a recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors Showcase the Amazing Projects they have been working on during the Coding Period. 
   <p align = "center" > <strong>Tap to View </strong></p>
 <p align="center">
        
@@ -27,7 +27,7 @@ Yearly more than 500 contributors show interest in contributing to Rocket.Chat b
 ## ⚙️ Deliverables
 The following are the Deliverables
 - The Tours are available for the latest and previous branch i.e 6.3.2
-- Set of 9 essential tours which is enough to make any contributor or developer to get familiar with codebase
+- Set of 9 essential tours which is enough to make any contributor or developer familiar with the codebase
 - Users can access tours by using `ctrl+shift+p` or `cmd+shift+p` and then `CodeTour: start tour`
 
 **All of the targets were completed during the GSOC period✨**
@@ -42,7 +42,7 @@ https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/9a00bbc8-58b2-42df-b93
 
  ![CodeTour](https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/ab604fc6-664e-45c8-b7e9-da392811438c)
 
-- Use (ctrl+shift+p) / (cmd+shift+p) to open all commands and then select start tour option
+- Starting Tours :- Use `ctrl+shift+p` / `cmd+shift+p` to open all commands and then select the start tour option
 
 https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/1285dea9-5c10-4149-8349-5f94e938db52
 
@@ -85,7 +85,7 @@ Do Checkout my Blogs
     
 | **S no.** | Blog |
 |:--------------------|:-------------------|
-| GSOC- Journey | [Journey to Google Summer of Code 2022] |
+| 1 | [Journey to Google Summer of Code 2023](https://aditya-singh.hashnode.dev/from-failing-to-write-hello-world-to-google-summer-of-codes-2023) |
     
 </div>
 
