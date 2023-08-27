@@ -17,7 +17,8 @@ Yearly more than 500 contributors show interest in contributing to Rocket.Chat b
 
 ## 🌄 Glimpse of project
 
--  This Video is a recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors Showcase the Amazing Projects they have been working on during the Coding Period. 
+-  This Video is a recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors Showcase the Amazing Projects they have been working on during the Coding Period.
+-  Here I showcased my work and shared my experience with **Live Demo**
   <p align = "center" > <strong>Tap to View </strong></p>
 <p align="center">
        
@@ -101,11 +102,26 @@ I would like to express my heartfelt gratitude to Kevin Aleman and Sing Li, my e
 - **Kevin Aleman** - [Github](https://github.com/KevLehman) [LinkedIn](https://www.linkedin.com/in/kevin-alem%C3%A1n/)
 - **Sing Li** - [GitHub](https://github.com/Sing-Li) [LinkedIn](https://www.linkedin.com/in/sing-li-119716139/)
 
+## 🤯 Problems That I Faced During GSOC
+
+### 😕 Understanding Codebase
+
+In order to create any tour, the first requirement was to have a good understanding of the Code and different tech stacks used by rocket.chat, I spent a good amount of time learning about different APIs and methods used in rocket.chat
+
+### ⛑️ Maintaining Tours
+
+A significant challenge I encountered during my Google Summer of Code 2023 journey with Rocket Chat was the ever-evolving nature of the codebase. To ensure the smooth functioning of our tours, I had to regularly review and adapt them to accommodate these ongoing changes.
+
+### 💡 Solution
+
+One of the solutions I came up with was GitHub Action [CodeTour Watch](https://github.com/marketplace/actions/codetour-watch) Which would inform if there is any change in the path of tours
+
+
 ## 💬 Connect With Me    
 Want to discuss GSoC? Let's connect!
 <div align="center">
 
-| **Student** | Mustafa Hasan Khan |
+| **Student** | Aditya Singh |
 |:--------------------|:-------------------|
 | **Organization** | [Rocket.Chat](https://rocket.chat/) |
 | **GitHub** | [@AdityaSingh-02](https://github.com/AdityaSingh-02) |
