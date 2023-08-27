@@ -10,7 +10,9 @@
 ## ⭐ Project Abstract
 `Guided RC tours and Tutorials` helping new contributors kickstart their open-source journey with rocket.chat.
 
-VS Code comes with a CodeTour Extension, and with its help, any person can go through all the tours and understand the working, This project involves the development of a set of guided tutorials that will help new developers understand how to perform multiple actions. And learn the complete Flow of code.
+VS Code comes with a CodeTour Extension, and with its help, any person can go through all the tours and understand the working, It is something like someone with a handholding harness that explains the code in the editor while going through multiple steps **Exact File And Exact Line**. 
+
+This project involves the development of a set of guided tutorials that will help new developers understand how to perform multiple actions. And learn the complete Flow of code.
 Yearly more than 500 contributors show interest in contributing to Rocket.Chat but more than 90% of them end up leaving their journey, This project would help new contributors and they would easily learn about the codebase without reading the complete documentation. In the coming years there will surely be an increase in contributors making worthy contributions to rocket.chat
 
 ## 🌄 Glimpse of project
