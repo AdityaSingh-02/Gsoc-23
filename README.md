@@ -41,6 +41,23 @@ The following are the Deliverables
 
 https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/9a00bbc8-58b2-42df-b93b-a76986c5bac5
 
+### Tours Available
+
+<div align="center">
+    
+| **S no.** | Tour |
+|:--------------------|:-------------------|
+| 1 | Repository Overview |
+| 2 | How to send a message (Client Side) |
+| 3 | How to send a message (Server Side) |
+| 4 | How to create an endpoint |
+| 5 | How to create a DB model |
+| 6 | How to use DB model |
+| 7 | Services in Rocket.Chat |
+| 8 | How to Add a new Services |
+| 9 | How to create a new Package |
+    
+</div>
 
 ## 🚀 Contributions
 
