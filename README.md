@@ -1,3 +1,4 @@
+# 🚩 Summary of Work Under Google Summer of Codes 2023
 <div align="center">
 
 <a href="https://www.rocket.chat/">![GSoC Banner](https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/b74a6712-ef2c-46a0-9a81-6f57d0a0f46d)</a>
@@ -6,24 +7,22 @@
 
 </div>
 
-<p align="center">
-    <code> 
-        <a href="#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
-        <a href="#deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp;
-    </code>
-</p>
-
-During the 3 months in GSOC'23 @Rocket.Chat I made multiple tours which would benefit new contributors.
-
-I intend to maintain this repository as a work progress/final report summary of my GSoC work and a quick guide for all future GSoC aspirants.
-
 ## ⭐ Project Abstract
-Creating step-by-step guided tours with the help of CodeTour extension.
+`Guided RC tours and Tutorials` helping new contributors kickstart their open-source journey.
 
+VS Code comes with a CodeTour Extension, with its help any person can go through all the tours and understand the working, This project involves the development of a set of guided tutorials that will help new developers understand how to perform multiple actions. And learn the complete Flow of code.
 Yearly more than 500 contributors show interest in contributing to Rocket.Chat but more than 90% of them end up leaving their journey, This project would help new contributors and they would easily learn about the codebase without reading the complete documentation. 
+
+## Glimpse of project
+
+-  These Video is recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors like me Showcase Amazing Projects they have been working on under Coding Period. 
+  <p align = "center" > <strong>Tap to View </strong></p>
+<p align="center">
+       
+<a href="https://www.youtube.com/watch?v=TNp8ICkmmdQ">
+<img src="http://img.youtube.com/vi/TNp8ICkmmdQ/0.jpg">
+ </a>
+</p>
 
 ## Deliverables
 The following are the Deliverables
