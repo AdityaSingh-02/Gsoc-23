@@ -91,8 +91,7 @@ Do Checkout my Blogs
 
 ## 🎓 Mentors
 
-A big thank you to my mentors for their guidance before and throughout GSoC. 🙏 
-I learned beyond GSoC from them and am forever grateful to be mentored by them.
+I would like to express my heartfelt gratitude to Kevin Aleman and Sing Li, my exceptional mentors throughout this project journey. Their unwavering support and guidance have been instrumental in shaping my growth. With their insightful guidance, we held two productive meetings each week, a testament to their commitment. Their encouragement to step beyond conventional boundaries has truly been transformative, pushing me to explore innovative solutions. From enhancing user-centric aspects to intricate technical implementations, their mentorship covered every aspect. In the face of diverse challenges at every juncture, their expertise helped us conquer each obstacle with determination.
 
 - **Kevin Aleman** - [Github](https://github.com/KevLehman) [LinkedIn](https://www.linkedin.com/in/kevin-alem%C3%A1n/)
 - **Sing Li** - [GitHub](https://github.com/Sing-Li) [LinkedIn](https://www.linkedin.com/in/sing-li-119716139/)
