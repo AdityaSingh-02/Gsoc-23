@@ -10,7 +10,7 @@
 ## ⭐ Project Abstract
 `Guided RC tours and Tutorials` helping new contributors kickstart their open-source journey with rocket.chat.
 
-VS Code comes with a CodeTour Extension, and with its help, any person can go through all the tours and understand the working, It is something like someone with a handholding harness that explains the code in the editor while going through multiple steps **Exact File And Exact Line**. 
+VS Code comes with a CodeTour Extension, and with its help, any person can go through all the tours and understand the working, It is something like someone with a handholding harness that explains the code in the editor while going through multiple steps in **Exact File And Exact Line**. 
 
 This project involves the development of a set of guided tutorials that will help new developers understand how to perform multiple actions. And learn the complete Flow of code.
 Yearly more than 500 contributors show interest in contributing to Rocket.Chat but more than 90% of them end up leaving their journey, This project would help new contributors and they would easily learn about the codebase without reading the complete documentation. In the coming years there will surely be an increase in contributors making worthy contributions to rocket.chat
@@ -36,7 +36,7 @@ The following are the Deliverables
 
 ## ⚒ Demo
 
-- The CodeTour Extension searches for a folder with a certain name i.e. `.tours` and all the tours created are store inside the `.tours` folder in JSON format. and Each file inside the .tours folder contains data about the tour including Line Numbers, file and folder names and explanations, ***To know more about CodeTour extension visit [here](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)***
+- The CodeTour Extension searches for a folder with a certain name i.e. `.tours` and all the tours created are stored inside the `.tours` folder in JSON format. and Each file inside the .tours folder contains data about the tour including Line Numbers, file and folder names and explanations, ***To know more about the CodeTour extension visit [here](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)***
 
 - A simple tour representing how a message is sent from the client side
 
