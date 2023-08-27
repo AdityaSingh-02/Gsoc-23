@@ -1,11 +1,9 @@
 <div align="center">
-    <a href=""><img src="https://miro.medium.com/v2/resize:fit:1200/1*aYkOg3XJYkkgmKLmjgRmHw.jpeg" width="650" alt="google-summer-of-code-2023"></a>
-    <br>
-    <b> 
-        <p>
-         <a href="https://rocket.chat/">Rocket.Chat</a>
-        </p>
-    </b>
+
+<a href="https://www.rocket.chat/">![GSoC Banner](https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/b74a6712-ef2c-46a0-9a81-6f57d0a0f46d)</a>
+
+<h2><a href="https://www.rocket.chat/">Rocket.Chat</a></h2>
+
 </div>
 
 <p align="center">
@@ -40,6 +38,16 @@ The following are the Deliverables
 - A simple tour representing how a message is sent from the client side
 
 https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/9a00bbc8-58b2-42df-b93b-a76986c5bac5
+
+- Install CodeTour Extension for running tours
+
+ ![CodeTour](https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/ab604fc6-664e-45c8-b7e9-da392811438c)
+
+- Use (ctrl+shift+p) / (cmd+shift+p) to open all commands and then select start tour option
+
+https://github.com/AdityaSingh-02/Gsoc-23/assets/94185167/1285dea9-5c10-4149-8349-5f94e938db52
+
+
 
 ### Tours Available
 
