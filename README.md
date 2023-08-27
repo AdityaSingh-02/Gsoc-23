@@ -13,9 +13,9 @@
 VS Code comes with a CodeTour Extension, with its help any person can go through all the tours and understand the working, This project involves the development of a set of guided tutorials that will help new developers understand how to perform multiple actions. And learn the complete Flow of code.
 Yearly more than 500 contributors show interest in contributing to Rocket.Chat but more than 90% of them end up leaving their journey, This project would help new contributors and they would easily learn about the codebase without reading the complete documentation. 
 
-## Glimpse of project
+## 🌄 Glimpse of project
 
--  These Video is recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors like me Showcase Amazing Projects they have been working on under Coding Period. 
+-  This Video is recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors Showcase their Amazing Projects they have been working on under Coding Period. 
   <p align = "center" > <strong>Tap to View </strong></p>
 <p align="center">
        
@@ -24,11 +24,11 @@ Yearly more than 500 contributors show interest in contributing to Rocket.Chat b
  </a>
 </p>
 
-## Deliverables
+## ⚙️ Deliverables
 The following are the Deliverables
-- Step by Step guided tours
-- Set of 9 Essential tours
-- Best for the beginners
+- The Tours are available for the latest and previous branch i.e 6.3.2
+- Set of 9 essential tours which is enough to make any contributor or developer to get familiar with codebase
+- Users can access tours by using `ctrl+shift+p` or `cmd+shift+p` and then `CodeTour: start tour`
 
 **All of the targets were completed during the GSOC period✨**
 
